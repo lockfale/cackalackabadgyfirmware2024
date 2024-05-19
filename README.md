@@ -2,6 +2,13 @@
 
 After [CackalackyCon 2024](https://cackalackycon.org/index.html) finishes up, we'll post the developers version of the firmware that was used for debugging and testing as well as more information about the badge.
 
+## Badge Stats from the conference 
+- 164 users built the badge **and** registered them
+- 619 scores were logged
+- The average alcohol reading over the weekend was 771 (meaning on avg, the con collectively was slightly intoxicated)
+- We recorded 22hrs and 30 mins of gameplay across all games on all badges
+- Badge bot tagged @sq33k a total of 40 times
+
 ## Serial Port things in the Conference Firmware 0.9.13
 
 ### Acheivements and Unlocks
