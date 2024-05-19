@@ -1,5 +1,7 @@
 # Access Point Challenge Writeup
 
+**SPOILER ALERT**
+
 This is the solution for unlocking asteroids on your badge. Don't read further if you want to figure it out on your own.
 
 After the badge powers up, it will wait between 30-60 minutes and then display the following on the screen:
