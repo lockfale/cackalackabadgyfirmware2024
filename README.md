@@ -1,6 +1,6 @@
 # CackalackaBadgy 2024
 
-After [CackalackyCon 2024](https://cackalackycon.org/index.html) finishes up, we'll post the developers version of the firmware that was used for debugging and testing as well as more information about the badge.
+All the information that you were hoping for related to the badge from [CackalackyCon 2024](https://cackalackycon.org/index.html) 
 
 ## Badge Stats from the conference 
 - 164 users built the badge **and** registered them
