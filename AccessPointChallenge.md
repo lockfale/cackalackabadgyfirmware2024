@@ -2,7 +2,7 @@
 
 **SPOILER ALERT**
 
-This is the solution for unlocking asteroids on your badge. Don't read further if you want to figure it out on your own.
+> :warning: This is the solution for unlocking asteroids on your badge. Don't read further if you want to figure it out on your own.
 
 ---
 
