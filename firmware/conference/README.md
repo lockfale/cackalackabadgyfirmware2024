@@ -1,4 +1,4 @@
-# Badge firmware that was used during CackalackyCon 2024
+# Badge firmware used during CackalackyCon 2024
 
 Flash the badge and **NOT** overwrite the FFS
 ```
