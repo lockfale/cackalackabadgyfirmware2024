@@ -2,6 +2,8 @@
 
 All the information that you were hoping for related to the badge from [CackalackyCon 2024](https://cackalackycon.org/index.html) 
 
+![alt text](https://github.com/lockfale/cackalackabadgyfirmware2024/blob/main/media/badges.jpg)
+
 ## Badge Stats from the conference 
 - 164 users built the badge **and** registered them
 - 619 scores were logged
