@@ -9,6 +9,11 @@ After [CackalackyCon 2024](https://cackalackycon.org/index.html) finishes up, we
 - Using the breathalyzer unlocks Breakout
 - Submitting secret flag in AP webapp to the badge form unlocks asteroids
 
+### Unlocking asteroids
+**Spoiler alert**
+
+[Here is a short writeup](https://github.com/lockfale/cackalackabadgyfirmware2024/blob/main/AccessPointChallenge.md) on how to unlock asteroids, if you are stumped. 
+
 ### Default Serial commands
 ```
 <HELP> - What it says...
