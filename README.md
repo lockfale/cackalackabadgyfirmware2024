@@ -14,7 +14,9 @@ After [CackalackyCon 2024](https://cackalackycon.org/index.html) finishes up, we
 ### Acheivements and Unlocks
 - Winning Circle Jerk unlocks Labyrinth
 - Using the breathalyzer unlocks Breakout
+- Using <HELLOWORLD> on Serial
 - Submitting secret flag in AP webapp to the badge form unlocks asteroids
+- Getting rickrolled
 
 ### Unlocking asteroids
 **Spoiler alert**
