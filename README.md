@@ -15,5 +15,4 @@ After [CackalackyCon 2024](https://cackalackycon.org/index.html) finishes up, we
 <TE> - Draws Taco Emoji
 <MFE> - Draws Middle Finger Emoji
 ```
-.... and maybe a couple more.... 
-... more to come
+.... and maybe a couple more.... more updates soon
