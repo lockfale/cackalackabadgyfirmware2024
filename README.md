@@ -23,7 +23,7 @@ After [CackalackyCon 2024](https://cackalackycon.org/index.html) finishes up, we
 
 [Here is a short writeup](https://github.com/lockfale/cackalackabadgyfirmware2024/blob/main/AccessPointChallenge.md) on how to unlock asteroids, if you are stumped. 
 
-### Default Serial commands in the Conference firmware 0.9.13
+## Default Serial commands in the Conference firmware 0.9.13
 ```
 <HELP> - What it says...
 <STATUS> - Gives you an idea of what is going on. Progress and such.
@@ -41,6 +41,9 @@ After [CackalackyCon 2024](https://cackalackycon.org/index.html) finishes up, we
 <RID> - shows the badge's real id
 <UUID> - shows the badge's UUID
 ```
+## Firmware
+- [Conference version](https://github.com/lockfale/cackalackabadgyfirmware2024/tree/main/firmware/conference)
+- [Develpment/testing cersion] (https://github.com/lockfale/cackalackabadgyfirmware2024/tree/main/firmware/developers)
 
 ## Those responsible
 * [@melvin2001](https://github.com/melvin2001)
