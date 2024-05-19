@@ -9,9 +9,7 @@ After [CackalackyCon 2024](https://cackalackycon.org/index.html) finishes up, we
 - We recorded 22hrs and 30 mins of gameplay across all games on all badges
 - Badge bot tagged @sq33k a total of 40 times
 
-## Serial Port things in the Conference Firmware 0.9.13
-
-### Acheivements and Unlocks
+## Acheivements and Unlocks
 - Winning Circle Jerk unlocks Labyrinth
 - Using the breathalyzer unlocks Breakout
 - Using HELLOWORLD on Serial submits the **Hello World** acheivement
@@ -20,12 +18,12 @@ After [CackalackyCon 2024](https://cackalackycon.org/index.html) finishes up, we
 - Submitting secret flag in AP webapp to the badge form unlocks asteroids and submits the **Secret Flag** acheivement
 - Getting rickrolled is just an acheivement in itself
 
-### Unlocking asteroids
+## Unlocking asteroids
 **Spoiler alert**
 
 [Here is a short writeup](https://github.com/lockfale/cackalackabadgyfirmware2024/blob/main/AccessPointChallenge.md) on how to unlock asteroids, if you are stumped. 
 
-### Default Serial commands
+### Default Serial commands in the Conference firmware 0.9.13
 ```
 <HELP> - What it says...
 <STATUS> - Gives you an idea of what is going on. Progress and such.
