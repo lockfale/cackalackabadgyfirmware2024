@@ -43,7 +43,7 @@ All the information that you were hoping for related to the badge from [Cackalac
 ```
 ## Firmware
 - [Conference version](https://github.com/lockfale/cackalackabadgyfirmware2024/tree/main/firmware/conference)
-- [Develpment/testing cersion] (https://github.com/lockfale/cackalackabadgyfirmware2024/tree/main/firmware/developers)
+- [Develpment/testing version](https://github.com/lockfale/cackalackabadgyfirmware2024/tree/main/firmware/developers)
 
 ## Those responsible
 * [@melvin2001](https://github.com/melvin2001)
