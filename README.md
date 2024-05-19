@@ -4,9 +4,7 @@ After [CackalackyCon 2024](https://cackalackycon.org/index.html) finishes up, we
 
 ## Serial Port things in the Conference Firmware 0.9.13
 
-## Flags and Unlocks
-
-### Unlocks
+### Acheivements and Unlocks
 - Winning Circle Jerk unlocks Labyrinth
 - Using the breathalyzer unlocks Breakout
 - Submitting secret flag in AP webapp to the badge form unlocks asteroids
