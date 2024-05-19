@@ -4,18 +4,31 @@ After [CackalackyCon 2024](https://cackalackycon.org/index.html) finishes up, we
 
 ## Serial Port things in the Conference Firmware 0.9.13
 
+## Flags and Unlocks
+
+### Unlocks
+- Winning Circle Jerk unlocks Labyrinth (Putt Putt)
+- Using the breathalyzer unlocks Breakout
+- Submitting secret flag in AP webapp to the badge form unlocks asteroids
+
 ### Default Serial commands
 ```
 <HELP> - What it says...
 <STATUS> - Gives you an idea of what is going on. Progress and such.
-<HELLOWORLD> - Command that gives user an idea of how to use the commands.
-
+<HELLOWORLD> - Command that gives user an idea of how to use the commands and unlocks HelloWorld acheivement.
 
 <WE> - Draws Wave Emoji
 <TE> - Draws Taco Emoji
 <MFE> - Draws Middle Finger Emoji
+
+<RESETWIFI> - resets the wifi settings back to badgenet
+<SETSSID> - sets the ssid
+<SETPASS> - sets the wifi password
+
+<DELPROG> - deletes their progress on the badge. Locks games
+<RID> - shows the badge's real id
+<UUID> - shows the badge's UUID
 ```
-.... and maybe a couple more.... more updates soon
 
 ## Those responsible
 * [@melvin2001](https://github.com/melvin2001)
