@@ -7,7 +7,7 @@ After [CackalackyCon 2024](https://cackalackycon.org/index.html) finishes up, we
 ## Flags and Unlocks
 
 ### Unlocks
-- Winning Circle Jerk unlocks Labyrinth (Putt Putt)
+- Winning Circle Jerk unlocks Labyrinth
 - Using the breathalyzer unlocks Breakout
 - Submitting secret flag in AP webapp to the badge form unlocks asteroids
 
