@@ -18,8 +18,7 @@ After [CackalackyCon 2024](https://cackalackycon.org/index.html) finishes up, we
 - Connecting to the badge's AP and visiting the web app submits the **Access Point** acheivement
 - Authenticating into the badge's web app submits the **Web Auth** acheivement 
 - Submitting secret flag in AP webapp to the badge form unlocks asteroids and submits the **Secret Flag** acheivement
-
-- Getting rickrolled
+- Getting rickrolled is just an acheivement in itself
 
 ### Unlocking asteroids
 **Spoiler alert**
