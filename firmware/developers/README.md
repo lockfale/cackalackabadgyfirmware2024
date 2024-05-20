@@ -15,7 +15,6 @@ esptool -b 921600 --chip esp8266 write_flash 0x0 firmware-dev-0.9.13.bin
 
 <WE> - Draws Wave Emoji
 <TE> - Draws Taco Emoji
-<MFE> - Draws Middle Finger Emoji
 
 <RESETWIFI> - resets the wifi settings back to badgenet
 <SETSSID> - sets the ssid
