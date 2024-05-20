@@ -12,7 +12,7 @@ All the information that you were hoping for related to the badge from [Cackalac
 - Badge bot tagged @sq33k a total of 40 times
 
 ## Acheivements and Unlocks
-- Winning Circle Jerk unlocks Labyrinth
+- Winning BallHole unlocks Labyrinth
 - Using the breathalyzer unlocks Breakout
 - Using HELLOWORLD on Serial submits the **Hello World** acheivement
 - Connecting to the badge's AP and visiting the web app submits the **Access Point** acheivement
@@ -33,7 +33,6 @@ All the information that you were hoping for related to the badge from [Cackalac
 
 <WE> - Draws Wave Emoji
 <TE> - Draws Taco Emoji
-<MFE> - Draws Middle Finger Emoji
 
 <RESETWIFI> - resets the wifi settings back to badgenet
 <SETSSID> - sets the ssid
